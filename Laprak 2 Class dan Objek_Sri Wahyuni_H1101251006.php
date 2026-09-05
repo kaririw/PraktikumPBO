@@ -33,7 +33,7 @@ class Mobil
     // Method untuk menghentikan mobil
     public function berhenti()
     {
-        echo "Mobil berhenti<br>";
+        echo "Mobil mogok<br>";
     }
 }
 
